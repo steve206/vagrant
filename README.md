@@ -1,2 +1,2 @@
 # vagrant
-Helpful vagrantfiles, ocassionally accompanied by a bootstrap.sh
+vagrant files for various use cases. Some include a bootstrap.sh
